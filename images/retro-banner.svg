@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <rect width="800" height="200" fill="#1a1a2e"/>
+  <rect x="0" y="0" width="800" height="200" fill="url(#scanlines)"/>
+  
+  <defs>
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="100%" height="4">
+      <rect width="100%" height="2" fill="#1a1a2e"/>
+      <rect width="100%" height="2" y="2" fill="#16213e"/>
+    </pattern>
+  </defs>
+  
+  <!-- Pixel art elements -->
+  <rect x="50" y="50" width="100" height="100" fill="#16213e"/>
+  <rect x="60" y="60" width="80" height="80" fill="#0f3460"/>
+  <rect x="70" y="80" width="20" height="20" fill="#e94560"/>
+  <rect x="110" y="80" width="20" height="20" fill="#e94560"/>
+  <rect x="80" y="110" width="40" height="10" fill="#e94560"/>
+  
+  <!-- Gaming elements -->
+  <circle cx="650" cy="100" r="40" fill="#16213e"/>
+  <polygon points="650,70 660,85 675,85 665,95 670,110 650,100 630,110 635,95 625,85 640,85" fill="#e94560"/>
+  
+  <!-- Retro text effect -->
+  <text x="400" y="120" text-anchor="middle" fill="#00ff41" font-family="monospace" font-size="48" font-weight="bold">BERGFEED</text>
+  <text x="400" y="160" text-anchor="middle" fill="#ffff00" font-family="monospace" font-size="24">RETRO GAMING JOURNALISM</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#1a1a2e"/>
+  <circle cx="32" cy="32" r="20" fill="#16213e"/>
+  <circle cx="32" cy="32" r="16" fill="#0f3460"/>
+  <polygon points="32,16 36,24 44,24 38,30 40,38 32,34 24,38 26,30 20,24 28,24" fill="#e94560"/>
+  <circle cx="32" cy="32" r="6" fill="#00ff00"/>
+  <rect x="28" y="28" width="8" height="8" fill="#1a1a2e"/>
+  <rect x="30" y="30" width="4" height="4" fill="#e94560"/>
+  <text x="32" y="56" text-anchor="middle" fill="#e94560" font-family="monospace" font-size="6">GUARDIAN</text>
+</svg>
