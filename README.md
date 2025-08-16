@@ -1,2 +1,0 @@
-# bergfeed
-bergfeed: gaming journalism
